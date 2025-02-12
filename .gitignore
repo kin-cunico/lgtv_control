@@ -1,0 +1,12 @@
+#ignore files list
+
+tv_key.json
+.venv/
+
+
+__py_cache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
